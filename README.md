@@ -1,6 +1,6 @@
 <h1>Failed RDP to IP Geolocation Information</h1>
 
-### Project Overview
+### Project Overview.
 
 <h2>Description</h2>
 <b>This repository houses a PowerShell script designed to parse failed RDP attack logs from Windows Event Viewer and enrich these logs with geographic information of the attackers by leveraging a third-party API. This script plays a crucial role in visualizing the origin of cyber-attacks on a global scale, utilizing Azure Sentinel for real-time analysis and mapping.</b>
